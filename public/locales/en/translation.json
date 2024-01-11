@@ -1,0 +1,240 @@
+{
+  "site": {
+    "title": "Fabrik.dev",
+    "description": "Fabrik is a CTO as a Service company that helps you build your MVP with the right technical expertise, at a fraction of the cost."
+  },
+  "navigation": {
+    "home": "Fabrik<0>.dev</0>",
+    "process": "Process",
+    "features": "Features",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "bookACall": "Book a call"
+  },
+  "hero": {
+    "title": "The <0>Challenge</0> of <0>Launching your own MVP</0>",
+    "description": "<1>Launching an MVP (Minimum Viable Product) is a monumental task, especially for solopreneurs!</1> <1>As such, you’re the visionary, the driving force behind your idea. You can - and you will - face these challenges:</1>",
+    "challenges": [
+      {
+        "icon": "technical-expertise-icon",
+        "title": "Finding Technical Expertise",
+        "description": "Searching for the right developer can be a daunting, time-consuming task."
+      },
+      {
+        "icon": "high-costs-icon",
+        "title": "High Costs and Resource Constraints",
+        "description": "Traditional development routes can be prohibitively expensive."
+      },
+      {
+        "icon": "lack-of-guidance-icon",
+        "title": "Lack of Technical Guidance",
+        "description": "Without the right guidance, navigating the complexities of tech development can be overwhelming."
+      }
+    ]
+  },
+  "solution": {
+    "tagline": "Our solution",
+    "title": "<0><1>Expert CTO Services</1> -</0> <0><1>Your</1> Vision. Our <1>Reality</1>.</0>",
+    "description": "Even the most brilliant ideas need the right technical expertise to flourish. And that's where our 'CTO as a Service' steps in! We’re not just a service; we’re your strategic technology partner, committed to transforming your vision into a viable, market-ready MVP."
+  },
+  "features": {
+    "tagline": "Features",
+    "title": "Our <0>Key Features</0>",
+    "description": "Here are the top notch of our features, but there's also plenty more we can offer - and you can see them below",
+    "list": [
+      {
+        "icon": "risk-free-guarantee-icon",
+        "title": "Risk-Free Guarantee",
+        "plan":"Free Feature",
+        "description": "If you're not satisfied with a developer's performance, we provide an alternative without any additional charges."
+      },
+      {
+        "icon": "cto-on-demand-icon",
+        "title": "CTO-On-Demand",
+        "plan":"Free Feature",
+        "description": "Access to experienced CTOs for strategic advice and oversight, ensuring your MVP aligns with your vision."
+      },
+      {
+        "icon": "cost-effective-solutions-icon",
+        "title": "Cost-Effective Solutions",
+        "plan":"Free Feature",
+        "description": "Our model is designed to be affordable, offering more value at a fraction of the cost."
+      },
+      {
+        "icon": "vetted-developer-matchmaking-icon",
+        "title": "Vetted Developer Matchmaking",
+        "plan":"Free Feature",
+        "description": "We connect you with developers who are not just skilled but perfectly matched to your project's needs."
+      }
+    ]
+  },
+  "advantages": {
+    "title": "A <0>Personal CTO</0> & <0>Tailored Development Service</0>",
+    "titleImage": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+    "points": [
+      {
+        "image": "bespoke-cto-consulting-image",
+        "title": "Bespoke CTO Consulting: Your Strategic Tech Ally",
+        "description": "Navigating the tech world can be daunting. With our CTO Consulting service, you gain more than technical advice; you gain a strategist, a guide who aligns technology with your business goals. From selecting the right tech stack to designing scalable architectures, we cover it all. Our expertise lies in our ability to understand your vision and translate it into technological success."
+      },
+      {
+        "image": "developer-matchmaking-image",
+        "title": "Developer Matchmaking: Pairing You with the Perfect Talent",
+        "description": "The backbone of any tech project is its developers. Our Developer Matchmaking service is curated to connect you with a developer who’s not just skilled but the right fit for your project’s unique needs. We ensure they are well-versed in building MVPs, understand startup dynamics, and are agile in their approach."
+      },
+      {
+        "image": "tech-stack-optimization-image",
+        "title": "Tech Stack Optimization: Tailored for MVP Success",
+        "description": "Our approach is simple yet effective - we optimize the tech stack to suit your MVP. This means faster development, cost efficiency, and a product that’s ready to scale. Whether it's leveraging the power of cloud computing or choosing the right database, we tailor it to your project's specific requirements."
+      },
+      {
+        "image": "in-depth-consulting-image",
+        "title": "In-Depth Consulting: From Ideation to Launch",
+        "description": "Every stage of your project is crucial. Our consulting covers market analysis, feature prioritization, tech road mapping, and more. We’re there from the ideation phase to the launch, ensuring each step is executed with precision."
+      },
+      {
+        "image": "ongoing-support-image",
+        "title": "Ongoing Support and Progress Tracking",
+        "description": "Our commitment doesn’t end at launch. We offer ongoing support, ensuring your product evolves with the market and your business needs. Regular progress tracking and agile adaptations keep your project on the path to success."
+      }
+    ]
+  },
+  "howItWorks": {
+    "tagline": "How does it work?",
+    "title": "From <0>Zero</0> to <0>Z-Hero</0>",
+    "description": "4 easy steps to start your journey to Successfulness.",
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Idea Evaluation",
+        "description": "We start by evaluating and refining your idea for market readiness and success."
+      },
+      {
+        "step_number": 2,
+        "title": "Developer Matchmaking",
+        "description": "We then match you with a developer from our pool, tailored to your project's needs and your working style."
+      },
+      {
+        "step_number": 3,
+        "title": "Development Process",
+        "description": "With the team ready, we begin development, with regular updates to align with your vision."
+      },
+      {
+        "step_number": 4,
+        "title": "Launch and Support",
+        "description": "After your MVP is ready, we assist with the launch and provide ongoing post-launch support."
+      }
+    ]
+  },
+  "testimonials": {
+    "tagline": "Testimonials",
+    "title": "<0>They'll Talk</0> about Us <0>Better than We Do</0>",
+    "description": "Don’t just take our word for it. Hear from our clients who have transformed their ideas into successful ventures with our help. Their stories are a testament to our commitment and expertise."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "We understand you have questions, and we’ve got all the answers. From the specifics of our services to how we handle different project scales, our FAQ section is designed to clarify all your doubts.",
+    "questions": [
+      {
+        "question": "What sets Fabrik apart in delivering my project?",
+        "answer": "At Fabrik, you're not just hiring a developer; you're gaining a tech visionary and a strategic ally. We take your concept and elevate it with a blend of precision, innovation, and market savvy. Our clients, like Julia from April Marine, have lauded our adaptable approach and communicative clarity, essential in bringing your idea to market triumphantly."
+      },
+      {
+        "question": "How involved can I be in the development process?",
+        "answer": "Collaboration is the heartbeat of creation here at Fabrik. You'll be in the driver's seat with regular check-ins, updates, and iterations. We believe your input is invaluable, and your involvement is as flexible as you need it to be."
+      },
+      {
+        "question": "Can you handle the unique needs of my project?",
+        "answer": "Every project is a new adventure, and adaptability is our creed. From AI to blockchain, I've personally ensured that Fabrik's solutions are as unique as the challenges they meet – a testament to our diverse client portfolio, including names like Lagerfeld and Groupama."
+      },
+      {
+        "question": "What if I need to pivot or adjust my project's direction?",
+        "answer": "Flexibility is key. If your vision evolves, so do our strategies. We're here to navigate the shifts and turns of the digital landscape with you, ensuring a product that's not just complete, but dynamic and responsive to the market's pulse."
+      },
+      {
+        "question": "How does Fabrik ensure quality in a tight timeframe?",
+        "answer": "Quality is non-negotiable. With a robust framework and a seasoned team led by a CTO who has conquered hackathons worldwide, we deliver excellence swiftly without cutting corners. Our client Jean-Francois from JEAN FRANCOIS THORON can attest to the professional standards we uphold, no matter the deadline pressure."
+      },
+      {
+        "question": "What about after the launch?",
+        "answer": "Launching is just the beginning. We stand by you as your digital solution takes flight, offering support, guidance, and enhancement services to ensure your product not only thrives but also grows with your ambition."
+      },
+      {
+        "question": "What exactly can I expect from your CTO consulting service?",
+        "answer": "Imagine having a seasoned tech strategist, a 15-year veteran in web and mobile development, by your side. That's what you get with Fabrik's CTO consulting. I'll be your guide, turning complex tech into a competitive edge, ensuring your project is not just built, but crafted for success."
+      },
+      {
+        "question": "There are many development services out there. Why should I choose Fabrik?",
+        "answer": "Unlike others, Fabrik provides you with a blend of strategic oversight and technical execution. Our clients, from solo visionaries to industry giants, all share stories of transformation and growth, thanks to our bespoke solutions that resonate with their target audience."
+      },
+      {
+        "question": "I've had mixed experiences with developers in the past. How will this be different?",
+        "answer": "We're not just developers; we're creators and innovators. We thrive on challenges and deliver solutions that don't just meet expectations but exceed them. Our commitment is proven through a portfolio of varied, successful projects and the testimonials of our delighted clients."
+      },
+      {
+        "question": "How flexible is Fabrik with project changes and pivots?",
+        "answer": "Agility is at the core of our operations. We pivot as quickly as the digital landscape changes, ensuring your project remains at the cutting edge. Your vision is our blueprint, and we adapt our strategies to align with your evolving business goals."
+      },
+      {
+        "question": "What if I'm new to tech and feel overwhelmed?",
+        "answer": "Don't worry, you're in safe hands. We demystify technology and walk you through every step, turning complexity into clarity. Our clients appreciate our approachable guidance, making tech an empowering tool rather than a daunting challenge."
+      },
+      {
+        "question": "How do you guarantee project success?",
+        "answer": "Success for us is seeing you surpass your goals. We align our processes with your vision, setting clear milestones and delivering measurable results. If we don't meet our high standards, we'll work doubly hard to ensure your success, without extra cost."
+      }
+    ]
+  },
+  "meetCto": {
+    "title": "Meet our <0>CTO</0> - Jeremy",
+    "description": "Jeremy, the CTO of Fabrik, is a strategic tech advisor with a 15-year track record in full-stack development. He's an award-winning participant in global hackathons, specializing in AI, blockchain, and building cutting-edge web & mobile applications. He also leads open-source AI projects and provides end-to-end project management and consultancy.",
+    "quote": {
+      "title": "Let's explore your technical needs together.",
+      "text": "Schedule a 30-minute consultation with me, Jeremy, your CTO at Fabrik. It's completely free, and there's no pressure. If we find that there's a fit, great! If not, that's totally okay too. I'm here to help you clarify your needs and see how we can bring value to your vision.",
+      "name": "Jeremy André",
+      "job": "CTO & Founder",
+      "malt": {
+        "label": "Meet him on Malt!",
+        "href": "https://www.malt.fr/profile/jeremygv"
+      }
+    }
+  },
+  "cta": {
+    "tagline": "Ready to embark on this journey?",
+    "title": "Schedule a free consultation with us. Let’s discuss how we can bring your vision to life.",
+    "button": "Let's go !"
+  },
+  "newsletterForm":{
+    "title": "Sign up for our newsletter to receive weekly tips and strategies",
+    "placeholder": "Your Email",
+    "button":"Sign up",
+    "consent":"By signing up and by agreeing to our Terms of Service, you agree to receive mail from us. You can unsubscribe at any time."
+  },
+  "finish": {
+    "title": "Our Commitment is Your Success",
+    "description": "We are not just a service provider; we are your partner in success. Our commitment is to see your idea not just take off but soar in the market. With us, you’re not just building a product; you’re building a future."
+  },
+  "footer": {
+    "description": "Embrace the future of MVP development with us – where your vision meets our expertise.",
+    "socialNetworks": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/in/jeremandre/"
+      },
+      {
+        "icon": "youtube",
+        "name": "YouTube",
+        "href": "https://www.youtube.com/@hellofabrik"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "href": "https://twitter.com/HelloFabrik"
+      }
+    ],
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "copyright": "© Copyright {{ year }} Fabrik.dev. All Rights Reserved."
+  }
+}

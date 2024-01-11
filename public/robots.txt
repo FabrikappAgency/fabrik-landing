@@ -1,0 +1,4 @@
+# Exemple: Autorisez tous les robots à parcourir et indexer votre site.
+# Syntaxe Complète: https://developers.google.com/search/docs/advanced/robots/create-robots-txt
+User-agent: *
+Allow: /
