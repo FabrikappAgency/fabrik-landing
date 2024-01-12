@@ -1,8 +1,9 @@
 {
   "site": {
     "title": "Fabrik.dev",
-    "description": "Fabrik est une entreprise de CTO en tant que service qui vous aide à construire votre MVP avec la bonne expertise technique, pour une fraction du coût."
+    "description": "Fabrik est une entreprise de 'CTO As A Service' qui vous aide à construire votre PMV avec la bonne expertise technique, pour une fraction du coût."
   },
+  "backToTop": "Retour en haut de page",
   "navigation": {
     "home": "Fabrik<0>.dev</0>",
     "process": "Processus",
@@ -12,124 +13,144 @@
     "bookACall": "Réservez un appel"
   },
   "hero": {
-    "title": "Le <0>Défi</0> de <0>Lancement de votre propre MVP</0>",
-    "description": "<1>Lancer un MVP (Minimum Viable Product) est une tâche monumentale, surtout pour les solopreneurs !</1> <1>En tant que tel, vous êtes le visionnaire, la force motrice derrière votre idée. Vous pouvez - et vous allez - faire face à ces défis :</1>",
+    "title": "Le <0>Défi</0> de <0>Lancer votre propre PMV</0>",
+    "description": "<1>Lancer un PMV (Produit Minimum Viable) est une tâche monumentale, surtout pour les solopreneurs !</1> <1>En tant que tel, vous êtes le visionnaire, la force motrice derrière votre idée. Vous pouvez - et vous allez - faire face à ces défis :</1>",
     "challenges": [
       {
         "icon": "technical-expertise-icon",
-        "title": "Trouver une expertise technique",
-        "description": "Rechercher le bon développeur peut être une tâche intimidante et chronophage."
+        "title": "🤔 Trouver une expertise technique",
+        "description": "Rechercher le bon développeur peut être une tâche intimidante et terriblement chronophage."
       },
       {
         "icon": "high-costs-icon",
-        "title": "Coûts élevés et contraintes en ressources",
-        "description": "Les voies de développement traditionnelles peuvent être prohibitivement coûteuses."
+        "title": "😧 Coûts élevés et contraintes en ressources",
+        "description": "Les voies de développement traditionnelles peuvent être très coûteuses."
       },
       {
         "icon": "lack-of-guidance-icon",
-        "title": "Manque de guidance technique",
-        "description": "Sans la bonne guidance, naviguer dans les complexités du développement technologique peut être écrasant."
+        "title": "😵‍💫 Manque de guidance technique",
+        "description": "Sans les bons conseils, naviguer dans les difficultés du développement technologique peut être écrasant."
       }
     ]
   },
   "solution": {
     "tagline": "Notre solution",
-    "title": "<0><1>Services de CTO Expert</1> -</0> <0><1>Votre</1> Vision. Notre <1>Réalité</1>.</0>",
-    "description": "Même les idées les plus brillantes ont besoin de la bonne expertise technique pour prospérer. Et c'est là que notre 'CTO as a Service' intervient! Nous ne sommes pas seulement un service; nous sommes votre partenaire technologique stratégique, engagé à transformer votre vision en un MVP viable et prêt pour le marché."
+    "title": "Un <0>CTO Personnel</0> & <0>Service de Développement Sur Mesure</0>",
+    "description": "Même les idées les plus brillantes ont besoin de la bonne expertise technique pour prospérer. Et c'est là que notre 'CTO as a Service' intervient ! Nous ne sommes pas seulement un service; nous sommes votre partenaire technologique stratégique, engagé à transformer votre vision en un PMV viable et prêt pour le marché."
+  },
+  "whyChooseUs": {
+    "title": "Pourquoi <0>Nous</0> choisir ?",
+    "reasons": [
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Un Processus Efficace et Rapide",
+        "description": "Nous vous faisons gagner un temps précieux, en accélérant le parcours de votre PMV de l'idée au marché."
+      },
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Un PMV Sur-Mesure",
+        "description": "Votre vision est unique, et votre PMV devrait l'être aussi. Nous nous assurons qu'il s'aligne parfaitement avec vos objectifs commerciaux."
+      },
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Un Impact sur le Long Terme",
+        "description": "Notre approche ne concerne pas seulement la construction d'un PMV; il s'agit de poser une base solide pour l'avenir de votre entreprise."
+      }
+    ]
   },
   "features": {
     "tagline": "Fonctionnalités",
     "title": "Nos <0>Principales Fonctionnalités</0>",
-    "description":"Voici le top du top de nos fonctionnalités, mais il y a aussi beaucoup plus que nous pouvons offrir - et vous pouvez les voir ci-dessous.",
+    "description": "Voici le top du top de nos fonctionnalités, mais il y a aussi beaucoup plus que nous pouvons offrir - et vous pouvez les voir ene-dessous.",
     "list": [
       {
         "icon": "risk-free-guarantee-icon",
         "title": "Garantie sans risque",
-        "plan":"Gratuit",
-        "description": "Si vous n'êtes pas satisfait de la performance d'un développeur, nous fournissons une alternative sans frais supplémentaires."
+        "plan": "Gratuit",
+        "description": "Si vous n'êtes pas satisfait(e) de la performance d'un développeur, nous fournissons une alternative sans frais supplémentaires."
       },
       {
         "icon": "cto-on-demand-icon",
         "title": "CTO à la demande",
-        "plan":"Gratuit",
-        "description": "Accès à des CTO expérimentés pour des conseils stratégiques et une supervision, garantissant que votre MVP est aligné sur votre vision."
+        "plan": "Gratuit",
+        "description": "Accès à des CTO expérimentés pour des conseils stratégiques et une supervision, c'est une garantie que votre PMV soit aligné avec votre vision."
       },
       {
         "icon": "cost-effective-solutions-icon",
         "title": "Solutions économiques",
-        "plan":"Gratuit",
+        "plan": "Gratuit",
         "description": "Notre modèle est conçu pour être abordable, offrant plus de valeur à une fraction du coût."
       },
       {
         "icon": "vetted-developer-matchmaking-icon",
         "title": "Appariement de développeurs vérifiés",
-        "plan":"Gratuit",
+        "plan": "Gratuit",
         "description": "Nous vous mettons en contact avec des développeurs qui ne sont pas seulement qualifiés, mais parfaitement adaptés aux besoins de votre projet."
       }
     ]
   },
   "advantages": {
-    "title": "Un <0>CTO Personnel</0> & <0>Service de Développement Sur Mesure</0>",
+    "title": "De <0>Zéro</0> à <0>Héro</0>",
     "titleImage": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
     "points": [
       {
         "image": "bespoke-cto-consulting-image",
         "title": "Consultation de CTO Personnalisée : Votre Allié Stratégique en Technologie",
-        "description": "Naviguer dans le monde de la technologie peut être intimidant. Avec notre service de consultation de CTO, vous obtenez plus qu'un simple conseil technique ; vous obtenez un stratège, un guide qui aligne la technologie sur vos objectifs commerciaux. Du choix de la bonne pile technologique à la conception d'architectures évolutives, nous couvrons tout. Notre expertise réside dans notre capacité à comprendre votre vision et à la traduire en succès technologique."
+        "description": "Naviguer dans le monde de la technologie peut être intimidant. Avec notre service de consultation de CTO, vous obtenez plus qu'un simple conseil technique; vous obtenez un stratège, un guide qui aligne la technologie sur vos objectifs commerciaux. Du choix des bonnes technologies à la conception d'architectures évolutives, nous couvrons tout. Notre expertise réside dans notre capacité à comprendre votre vision et à la traduire en succès technologique."
       },
       {
         "image": "developer-matchmaking-image",
-        "title": "Appariement de Développeurs : Vous Associer au Talent Parfait",
-        "description": "L'épine dorsale de tout projet technologique réside dans ses développeurs. Notre service d'appariement de développeurs est conçu pour vous connecter à un développeur qui n'est pas seulement qualifié mais aussi le bon choix pour les besoins uniques de votre projet. Nous nous assurons qu'ils sont bien versés dans la construction de MVP, comprennent la dynamique des start-ups et sont agiles dans leur approche."
+        "title": "Matchmaking : Vous Associer au Talent Parfait",
+        "description": "L'essence de tout projet technologique réside dans ses développeurs. Notre service de matchmaking avec des développeurs est conçu pour vous connecter à un développeur qui n'est pas seulement qualifié mais aussi le bon choix pour les besoins uniques de votre projet. Nous nous assurons qu'ils sont bien versés dans la construction de PMV, comprennent la dynamique des start-ups et sont agiles dans leur approche."
       },
       {
         "image": "tech-stack-optimization-image",
-        "title": "Optimisation de la Pile Technologique : Adaptée pour le Succès du MVP",
-        "description": "Notre approche est simple mais efficace - nous optimisons la pile technologique pour correspondre à votre MVP. Cela signifie un développement plus rapide, une efficacité des coûts et un produit prêt à évoluer. Que ce soit en tirant parti de la puissance du cloud computing ou en choisissant la bonne base de données, nous l'adaptions aux besoins spécifiques de votre projet."
+        "title": "Optimisation du Choix des Technologies : Adaptée pour le Succès du PMV",
+        "description": "Notre approche est simple mais efficace - nous optimisons le choix des technologies pour correspondre à votre PMV. Cela signifie un développement plus rapide, une efficacité des coûts et un produit prêt à évoluer. Que ce soit en tirant parti de la puissance du cloud computing ou en choisissant la bonne base de données, nous l'adaptions aux besoins spécifiques de votre projet."
       },
       {
         "image": "in-depth-consulting-image",
-        "title": "Consultation Approfondie : De l'idéation au Lancement",
+        "title": "Consultation Approfondie : De l'Idéation au Lancement",
         "description": "Chaque étape de votre projet est cruciale. Notre consultation couvre l'analyse du marché, la priorisation des fonctionnalités, la cartographie technologique, et plus encore. Nous sommes là depuis la phase d'idéation jusqu'au lancement, garantissant que chaque étape est exécutée avec précision."
       },
       {
         "image": "ongoing-support-image",
         "title": "Support Continu et Suivi des Progrès",
-        "description": "Notre engagement ne se termine pas au lancement. Nous offrons un support continu, garantissant que votre produit évolue avec le marché et les besoins de votre entreprise. Un suivi régulier des progrès et des adaptations agiles maintiennent votre projet sur la voie du succès."
+        "description": "Notre engagement ne se termine pas avec le lancement de votre projet. Nous offrons un support continu, garantissant que votre produit évolue avec le marché et les besoins de votre entreprise. Un suivi régulier des progrès et des adaptations agiles maintiennent votre projet sur la voie du succès."
       }
     ]
   },
   "howItWorks": {
     "tagline": "Comment ça marche ?",
-    "title": "De <0>Zéro</0> à <0>Héro</0>",
+    "title": "Un Processus qui <0>Garantira votre Succès</0>",
     "description": "4 étapes simples pour commencer votre voyage vers le Succès.",
     "steps": [
       {
         "step_number": 1,
-        "title": "Évaluation de l'idée",
-        "description": "Nous commençons par évaluer et affiner votre idée pour la préparation et le succès sur le marché."
+        "title": "Affiner votre idée",
+        "description": "Nous commençons par évaluer, affiner et vous conseiller sur votre idée pour la préparation et le succès sur le marché."
       },
       {
         "step_number": 2,
-        "title": "Appariement de Développeurs",
+        "title": "Matchmaking avec un Développeur",
         "description": "Nous vous associons ensuite à un développeur de notre pool, adapté aux besoins de votre projet et à votre style de travail."
       },
       {
         "step_number": 3,
         "title": "Processus de Développement",
-        "description": "Avec l'équipe prête, nous commençons le développement, avec des mises à jour régulières pour aligner avec votre vision."
+        "description": "Une fois l'équipe prête, nous commençons le développement, avec des mises à jour régulières pour aligner le travail de l'équipe avec votre vision."
       },
       {
         "step_number": 4,
         "title": "Lancement et Support",
-        "description": "Une fois votre MVP prêt, nous vous assistons pour le lancement et fournissons un support continu après le lancement."
+        "description": "Quand votre PMV est prêt, nous vous assistons pour le lancement et fournissons un support continu après le lancement."
       }
     ]
   },
   "testimonials": {
     "tagline": "Témoignages",
     "title": "<0>Ils en Parleront</0> mieux que Nous <0>Ne le ferons</0>",
-    "description": "Ne vous contentez pas de prendre notre parole pour argent comptant. Écoutez nos clients qui ont transformé leurs idées en entreprises réussies avec notre aide. Leurs histoires sont une preuve de notre engagement et de notre expertise."
+    "description": "Ne vous contentez pas de nous prendre notre parole pour argent comptant. Écoutez nos clients qui ont transformé leurs idées en réussites avec notre aide. Leurs histoires sont une preuve de notre engagement et de notre expertise."
   },
   "faq": {
     "title": "Foire Aux Questions",
@@ -137,15 +158,15 @@
     "questions": [
       {
         "question": "Qu'est-ce qui distingue Fabrik dans la réalisation de mon projet ?",
-        "answer": "Chez Fabrik, vous n'embauchez pas simplement un développeur ; vous gagnez un visionnaire technologique et un allié stratégique. Nous prenons votre concept et le sublimons avec une combinaison de précision, d'innovation et de perspicacité sur le marché. Nos clients, comme Julia d'April Marine, ont loué notre approche adaptable et notre clarté communicative, essentielles pour amener votre idée sur le marché triomphalement."
+        "answer": "Chez Fabrik, vous n'embauchez pas simplement un développeur; vous gagnez un visionnaire technologique et un allié stratégique. Nous prenons votre concept et le sublimons avec une combinaison de précision, d'innovation et de perspicacité sur le marché. Nos clients, comme Julia d'April Marine, ont loué notre approche adaptable et notre clarté communicative, essentielles pour amener votre idée sur le marché avec triomphe !"
       },
       {
         "question": "À quel point puis-je être impliqué dans le processus de développement ?",
-        "answer": "La collaboration est le cœur battant de la création ici chez Fabrik. Vous serez au volant avec des points de contrôle réguliers, des mises à jour et des itérations. Nous croyons que votre contribution est inestimable, et votre implication est aussi flexible que vous en avez besoin."
+        "answer": "La collaboration est le cœur battant de la création ici chez Fabrik. Vous serez au volant avec des points de contrôle réguliers, des mises à jour et des itérations. Nous croyons que votre contribution est inestimable, et votre implication pourra être aussi flexible que vous en aurez besoin."
       },
       {
         "question": "Pouvez-vous gérer les besoins uniques de mon projet ?",
-        "answer": "Chaque projet est une nouvelle aventure, et l'adaptabilité est notre credo. De l'IA à la blockchain, j'ai personnellement veillé à ce que les solutions de Fabrik soient aussi uniques que les défis qu'elles relèvent – une preuve de notre portefeuille de clients diversifié, comprenant des noms comme Lagerfeld et Groupama."
+        "answer": "Chaque projet est une nouvelle aventure, et l'adaptabilité est notre credo. De l'IA à la blockchain, j'ai personnellement veillé à ce que les solutions de Fabrik soient aussi uniques que les défis qu'elles relèvent – une preuve de notre portfolio de clients diversifié, comprenant des noms comme Lagerfeld et Groupama."
       },
       {
         "question": "Et si j'ai besoin de changer ou d'ajuster la direction de mon projet ?",
@@ -157,31 +178,31 @@
       },
       {
         "question": "Et après le lancement ?",
-        "answer": "Le lancement n'est que le début. Nous sommes à vos côtés alors que votre solution numérique prend son envol, offrant un support, des conseils et des services d'amélioration pour garantir que votre produit prospère non seulement mais aussi évolue avec votre ambition."
+        "answer": "Le lancement n'est que le début. Nous serons à vos côtés quand que votre solution numérique prend son envol, offrant un support, des conseils et des services d'amélioration pour garantir non seulement que votre produit prospère mais aussi qu'il évolue avec votre ambition."
       },
       {
         "question": "À quoi puis-je m'attendre exactement de votre service de consultation de CTO ?",
         "answer": "Imaginez avoir un stratège technologique chevronné, un vétéran de 15 ans du développement web et mobile, à vos côtés. C'est ce que vous obtenez avec la consultation de CTO de Fabrik. Je serai votre guide, transformant la technologie complexe en un avantage compétitif, assurant que votre projet n'est pas seulement construit, mais conçu pour réussir."
       },
       {
-        "question": "Il existe de nombreux services de développement là-bas. Pourquoi devrais-je choisir Fabrik ?",
+        "question": "Il existe de nombreux services de développement. Pourquoi devrais-je choisir Fabrik ?",
         "answer": "Contrairement à d'autres, Fabrik vous offre un mélange de supervision stratégique et d'exécution technique. Nos clients, des visionnaires solitaires aux géants de l'industrie, partagent tous des histoires de transformation et de croissance, grâce à nos solutions sur mesure qui résonnent avec leur public cible."
       },
       {
-        "question": "J'ai eu des expériences mitigées avec les développeurs dans le passé. En quoi cela sera-t-il différent ?",
-        "answer": "Nous ne sommes pas simplement des développeurs ; nous sommes des créateurs et des innovateurs. Nous prospérons dans les défis et fournissons des solutions qui ne répondent pas simplement aux attentes mais les dépassent. Notre engagement est prouvé à travers un portefeuille de projets réussis variés et les témoignages de nos clients ravis."
+        "question": "J'ai eu des expériences mitigées avec les développeurs dans le passé. En quoi sera-t-il différent avec vous ?",
+        "answer": "Nous ne sommes pas simplement des développeurs ; nous sommes des créateurs et des innovateurs. Nous prospérons dans les défis et fournissons des solutions qui ne répondent pas simplement aux attentes mais les dépassent. Notre engagement est prouvé à travers un portfolio de projets réussis variés et les témoignages de nos clients ravis."
       },
       {
-        "question": "À quel point Fabrik est-elle flexible avec les changements de projet et les pivots ?",
-        "answer": "l'agilité est au cœur de nos opérations. Nous pivotons aussi rapidement que le paysage numérique change, garantissant que votre projet reste à la pointe. Votre vision est notre plan, et nous adaptons nos stratégies pour s'aligner sur vos objectifs commerciaux évolutifs."
+        "question": "À quel point Fabrik est-elle flexible avec les changements de projet et les retournements de situation ?",
+        "answer": "L'agilité est au cœur de nos opérations. Nous nous adaptons aussi rapidement que le paysage numérique change, garantissant que votre projet reste à la pointe. Votre vision est notre plan, et nous adaptons nos stratégies pour nous aligner sur vos objectifs commerciaux évolutifs."
       },
       {
-        "question": "Et si je suis nouveau dans la technologie et me sens dépassé ?",
-        "answer": "Ne vous inquiétez pas, vous êtes entre de bonnes mains. Nous démystifions la technologie et vous guidons à chaque étape, transformant la complexité en clarté. Nos clients apprécient notre guidance accessible, faisant de la technologie un outil émancipateur plutôt qu'un défi intimidant."
+        "question": "Et si je suis nouveau/-elle dans le monde de la technologie et que je me sens dépassé(e) ?",
+        "answer": "Ne vous inquiétez pas, vous êtes entre de bonnes mains. Nous démystifions la technologie et vous guidons à chaque étape, transformant la complexité en clarté. Nos clients apprécient nos conseils accessibles, faisant de la technologie un outil émancipateur plutôt qu'un défi intimidant."
       },
       {
         "question": "Comment garantissez-vous le succès du projet ?",
-        "answer": "Le succès pour nous, c'est de vous voir dépasser vos objectifs. Nous alignons nos processus sur votre vision, fixons des jalons clairs et fournissons des résultats mesurables. Si nous ne répondons pas à nos normes élevées, nous travaillerons deux fois plus dur pour garantir votre succès, sans coût supplémentaire."
+        "answer": "Le succès pour nous, c'est de vous voir dépasser vos objectifs. Nous alignons nos processus sur votre vision, fixons des jalons clairs et fournissons des résultats mesurables. Si nous ne répondons pas à nos propres standards les plus élevés, nous travaillerons deux fois plus dur pour garantir votre succès, sans coût supplémentaire."
       }
     ]
   },
@@ -200,22 +221,22 @@
     }
   },
   "cta": {
-    "tagline": "Prêt à vous embarquer dans cette aventure ?",
+    "tagline": "Prêt à embarquer dans cette aventure ?",
     "title": "Planifiez une consultation gratuite avec nous. Discutons de la manière dont nous pouvons donner vie à votre vision.",
-    "button":"C'est parti !"
+    "button": "C'est parti !"
   },
-  "newsletterForm":{
+  "newsletterForm": {
     "title": "Inscrivez-vous à notre newsletter",
     "placeholder": "Votre adresse e-mail",
-    "button":"S'inscrire",
-    "consent":"En vous inscrivant et en acceptant nos Conditions Générales d'Utilisation, vous acceptez de recevoir des e-mails de notre part. Vous pouvez vous désinscrire à tout moment."
+    "button": "S'inscrire",
+    "consent": "En vous inscrivant et en acceptant nos Conditions Générales d'Utilisation, vous acceptez de recevoir des e-mails de notre part. Vous pouvez vous désinscrire à tout moment."
   },
   "finish": {
     "title": "Notre Engagement, C'est Votre Réussite",
     "description": "Nous ne sommes pas seulement un prestataire de services ; nous sommes votre partenaire dans la réussite. Notre engagement est de voir non seulement votre idée décoller, mais aussi s'élever sur le marché. Avec nous, vous ne construisez pas seulement un produit ; vous construisez un avenir."
   },
   "footer": {
-    "description": "Adoptez l'avenir du développement MVP avec nous, là où votre vision rencontre notre expertise.",
+    "description": "Adoptez l'avenir du développement PMV avec nous, là où votre vision rencontre notre expertise.",
     "socialNetworks": [
       {
         "icon": "linkedin",

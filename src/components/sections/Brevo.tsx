@@ -12,7 +12,6 @@ const Brevo = () => {
     <section
       className="box-border relative block py-20 overflow-hidden leading-6 text-center text-white bg-green-500 bg-no-repeat bg-cover tails-selected-element"
       data-primary="green-400"
-      contentEditable="true"
     >
       <div className="w-full max-w-2xl px-4 mx-auto leading-6 text-center xl:px-0">
         <div className="box-border flex flex-wrap justify-center -mx-4 text-white">

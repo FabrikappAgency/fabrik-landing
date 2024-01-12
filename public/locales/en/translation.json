@@ -3,6 +3,7 @@
     "title": "Fabrik.dev",
     "description": "Fabrik is a CTO as a Service company that helps you build your MVP with the right technical expertise, at a fraction of the cost."
   },
+  "backToTop": "Retour en haut de page",
   "navigation": {
     "home": "Fabrik<0>.dev</0>",
     "process": "Process",
@@ -17,25 +18,45 @@
     "challenges": [
       {
         "icon": "technical-expertise-icon",
-        "title": "Finding Technical Expertise",
-        "description": "Searching for the right developer can be a daunting, time-consuming task."
+        "title": "🤔 Finding Technical Expertise",
+        "description": "Searching for the right developer can be a daunting, awfully time-consuming task."
       },
       {
         "icon": "high-costs-icon",
-        "title": "High Costs and Resource Constraints",
-        "description": "Traditional development routes can be prohibitively expensive."
+        "title": "😧 High Costs and Resource Constraints",
+        "description": "Traditional development routes can be very expensive."
       },
       {
         "icon": "lack-of-guidance-icon",
-        "title": "Lack of Technical Guidance",
+        "title": "😵‍💫 Lack of Technical Guidance",
         "description": "Without the right guidance, navigating the complexities of tech development can be overwhelming."
       }
     ]
   },
   "solution": {
     "tagline": "Our solution",
-    "title": "<0><1>Expert CTO Services</1> -</0> <0><1>Your</1> Vision. Our <1>Reality</1>.</0>",
+    "title": "Your own <0>Personal CTO</0> & <0>Tailored Development Package</0>",
     "description": "Even the most brilliant ideas need the right technical expertise to flourish. And that's where our 'CTO as a Service' steps in! We’re not just a service; we’re your strategic technology partner, committed to transforming your vision into a viable, market-ready MVP."
+  },
+  "whyChooseUs": {
+    "title": "Why choose <0>Us</0> ?",
+    "reasons": [
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Time-Efficient Process",
+        "description": "We save you valuable time, accelerating your MVP's journey from idea to market."
+      },
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Custom-Tailored MVP",
+        "description": "Your vision is unique, and so should be your MVP. We ensure it aligns perfectly with your business goals."
+      },
+      {
+        "icon": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
+        "title": "Long-Term Business Impact",
+        "description": "Our approach is not just about building an MVP; it's about setting a strong foundation for your business's future."
+      }
+    ]
   },
   "features": {
     "tagline": "Features",
@@ -45,31 +66,31 @@
       {
         "icon": "risk-free-guarantee-icon",
         "title": "Risk-Free Guarantee",
-        "plan":"Free Feature",
+        "plan": "Free Feature",
         "description": "If you're not satisfied with a developer's performance, we provide an alternative without any additional charges."
       },
       {
         "icon": "cto-on-demand-icon",
         "title": "CTO-On-Demand",
-        "plan":"Free Feature",
+        "plan": "Free Feature",
         "description": "Access to experienced CTOs for strategic advice and oversight, ensuring your MVP aligns with your vision."
       },
       {
         "icon": "cost-effective-solutions-icon",
         "title": "Cost-Effective Solutions",
-        "plan":"Free Feature",
+        "plan": "Free Feature",
         "description": "Our model is designed to be affordable, offering more value at a fraction of the cost."
       },
       {
         "icon": "vetted-developer-matchmaking-icon",
         "title": "Vetted Developer Matchmaking",
-        "plan":"Free Feature",
+        "plan": "Free Feature",
         "description": "We connect you with developers who are not just skilled but perfectly matched to your project's needs."
       }
     ]
   },
   "advantages": {
-    "title": "A <0>Personal CTO</0> & <0>Tailored Development Service</0>",
+    "title": "From <0>Zero</0> to <0>Z-Hero</0>",
     "titleImage": "https://cdn.devdojo.com/images/october2021/shooting-star.png",
     "points": [
       {
@@ -95,19 +116,19 @@
       {
         "image": "ongoing-support-image",
         "title": "Ongoing Support and Progress Tracking",
-        "description": "Our commitment doesn’t end at launch. We offer ongoing support, ensuring your product evolves with the market and your business needs. Regular progress tracking and agile adaptations keep your project on the path to success."
+        "description": "Our commitment doesn’t end when your project launches. We offer ongoing support, ensuring your product evolves with the market and your business needs. Regular progress tracking and agile adaptations keep your project on the path to success."
       }
     ]
   },
   "howItWorks": {
     "tagline": "How does it work?",
-    "title": "From <0>Zero</0> to <0>Z-Hero</0>",
+    "title": "A Process that Will <0>Guarantee your Success</0>",
     "description": "4 easy steps to start your journey to Successfulness.",
     "steps": [
       {
         "step_number": 1,
-        "title": "Idea Evaluation",
-        "description": "We start by evaluating and refining your idea for market readiness and success."
+        "title": "Idea Refining",
+        "description": "We start by evaluating, refining and bring you advices on your idea for market readiness and success."
       },
       {
         "step_number": 2,
@@ -117,19 +138,19 @@
       {
         "step_number": 3,
         "title": "Development Process",
-        "description": "With the team ready, we begin development, with regular updates to align with your vision."
+        "description": "With the team ready, we begin development, with regular updates to align team's work with your vision."
       },
       {
         "step_number": 4,
         "title": "Launch and Support",
-        "description": "After your MVP is ready, we assist with the launch and provide ongoing post-launch support."
+        "description": "Once your MVP is ready, we assist with the launch and provide ongoing post-launch support."
       }
     ]
   },
   "testimonials": {
     "tagline": "Testimonials",
     "title": "<0>They'll Talk</0> about Us <0>Better than We Do</0>",
-    "description": "Don’t just take our word for it. Hear from our clients who have transformed their ideas into successful ventures with our help. Their stories are a testament to our commitment and expertise."
+    "description": "Don’t just take our word for it. Hear from our clients who have transformed their ideas into success with our help. Their stories are a testament to our commitment and expertise."
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -137,11 +158,11 @@
     "questions": [
       {
         "question": "What sets Fabrik apart in delivering my project?",
-        "answer": "At Fabrik, you're not just hiring a developer; you're gaining a tech visionary and a strategic ally. We take your concept and elevate it with a blend of precision, innovation, and market savvy. Our clients, like Julia from April Marine, have lauded our adaptable approach and communicative clarity, essential in bringing your idea to market triumphantly."
+        "answer": "At Fabrik, you're not just hiring a developer; you're gaining a tech visionary and a strategic ally. We take your concept and elevate it with a blend of precision, innovation, and market savvy. Our clients, like Julia from April Marine, have lauded our adaptable approach and communicative clarity, essential in bringing your idea to market triumphantly!"
       },
       {
         "question": "How involved can I be in the development process?",
-        "answer": "Collaboration is the heartbeat of creation here at Fabrik. You'll be in the driver's seat with regular check-ins, updates, and iterations. We believe your input is invaluable, and your involvement is as flexible as you need it to be."
+        "answer": "Collaboration is the heartbeat of creation here at Fabrik. You'll be in the driver's seat with regular check-ins, updates, and iterations. We believe your input is invaluable, and your involvement will be as flexible as you'll need it to be."
       },
       {
         "question": "Can you handle the unique needs of my project?",
@@ -157,7 +178,7 @@
       },
       {
         "question": "What about after the launch?",
-        "answer": "Launching is just the beginning. We stand by you as your digital solution takes flight, offering support, guidance, and enhancement services to ensure your product not only thrives but also grows with your ambition."
+        "answer": "Launching is just the beginning. We'll stand by you when your digital solution takes flight, offering support, guidance, and enhancement services to ensure your product not only thrives but also grows with your ambition."
       },
       {
         "question": "What exactly can I expect from your CTO consulting service?",
@@ -168,7 +189,7 @@
         "answer": "Unlike others, Fabrik provides you with a blend of strategic oversight and technical execution. Our clients, from solo visionaries to industry giants, all share stories of transformation and growth, thanks to our bespoke solutions that resonate with their target audience."
       },
       {
-        "question": "I've had mixed experiences with developers in the past. How will this be different?",
+        "question": "I've had mixed experiences with developers in the past. How will this be different with you?",
         "answer": "We're not just developers; we're creators and innovators. We thrive on challenges and deliver solutions that don't just meet expectations but exceed them. Our commitment is proven through a portfolio of varied, successful projects and the testimonials of our delighted clients."
       },
       {
@@ -176,12 +197,12 @@
         "answer": "Agility is at the core of our operations. We pivot as quickly as the digital landscape changes, ensuring your project remains at the cutting edge. Your vision is our blueprint, and we adapt our strategies to align with your evolving business goals."
       },
       {
-        "question": "What if I'm new to tech and feel overwhelmed?",
+        "question": "What if I'm new to tech world and feel overwhelmed?",
         "answer": "Don't worry, you're in safe hands. We demystify technology and walk you through every step, turning complexity into clarity. Our clients appreciate our approachable guidance, making tech an empowering tool rather than a daunting challenge."
       },
       {
         "question": "How do you guarantee project success?",
-        "answer": "Success for us is seeing you surpass your goals. We align our processes with your vision, setting clear milestones and delivering measurable results. If we don't meet our high standards, we'll work doubly hard to ensure your success, without extra cost."
+        "answer": "Success for us is seeing you surpass your goals. We align our processes with your vision, setting clear milestones and delivering measurable results. If we don't meet our own highest standards, we'll work doubly hard to ensure your success, without extra cost."
       }
     ]
   },
@@ -204,11 +225,11 @@
     "title": "Schedule a free consultation with us. Let’s discuss how we can bring your vision to life.",
     "button": "Let's go !"
   },
-  "newsletterForm":{
+  "newsletterForm": {
     "title": "Sign up for our newsletter to receive weekly tips and strategies",
     "placeholder": "Your Email",
-    "button":"Sign up",
-    "consent":"By signing up and by agreeing to our Terms of Service, you agree to receive mail from us. You can unsubscribe at any time."
+    "button": "Sign up",
+    "consent": "By signing up and by agreeing to our Terms of Service, you agree to receive mail from us. You can unsubscribe at any time."
   },
   "finish": {
     "title": "Our Commitment is Your Success",

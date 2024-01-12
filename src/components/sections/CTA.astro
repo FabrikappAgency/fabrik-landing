@@ -2,42 +2,45 @@
 import { t } from "i18next";
 import { Trans } from "astro-i18next/components";
 ---
-<section class="bg-gray-900">
-    <div class="px-8 py-8 mx-auto sm:py-10 lg:py-20 max-w-7xl">
+
+<section class="bg-gray-900" id="cta">
+  <div class="px-8 py-8 mx-auto sm:py-10 lg:py-20 max-w-7xl">
+    <div
+      class="relative py-6 overflow-hidden rounded-lg bg-gradient-to-r from-green-500 to-purple-500 lg:py-12 md:px-6 lg:p-16 lg:flex lg:items-center lg:justify-between md:shadow-xl md:bg-purple-1000 via-blue-500"
+      data-primary="purple-600"
+      data-rounded="rounded-lg"
+      data-rounded-max="rounded-full"
+    >
       <div
-        class="relative py-6 overflow-hidden rounded-lg bg-gradient-to-r from-green-500 to-purple-500 lg:py-12 md:px-6 lg:p-16 lg:flex lg:items-center lg:justify-between md:shadow-xl md:bg-purple-1000 via-blue-500"
-        data-primary="purple-600"
-        data-rounded="rounded-lg"
-        data-rounded-max="rounded-full"
+        class="absolute top-0 right-0 hidden w-full -mt-20 transform rotate-45 translate-x-1/2 bg-white sm:block h-96 opacity-5"
       >
-        <div
-          class="absolute top-0 right-0 hidden w-full -mt-20 transform rotate-45 translate-x-1/2 bg-white sm:block h-96 opacity-5"
+      </div>
+      <div
+        class="absolute top-0 left-0 hidden w-full -mt-20 transform rotate-45 -translate-x-1/2 bg-green-300 sm:block h-96 opacity-5"
+      >
+      </div>
+      <div class="relative p-6 rounded-lg md:p-0">
+        <h2
+          class="text-3xl font-extrabold leading-9 tracking-tight text-white sm:text-4xl sm:leading-10"
         >
-        </div>
-        <div
-          class="absolute top-0 left-0 hidden w-full -mt-20 transform rotate-45 -translate-x-1/2 bg-green-300 sm:block h-96 opacity-5"
+          🚀 {t("cta.tagline")}
+        </h2>
+        <p class="text-white ml-3 mt-3">
+          {t("cta.title")}
+        </p>
+      </div>
+      <div
+        class="relative flex flex-col items-center w-full px-6 space-y-5 md:space-x-5 md:space-y-0 md:flex-row md:w-auto lg:flex-shrink-0 md:px-0"
+      >
+        <a
+          href=""
+          class="block w-full px-8 py-5 text-xl font-medium leading-6 text-center text-purple-600 transition duration-150 ease-in-out bg-purple-100 rounded-md md:inline-flex md:shadow md:w-auto hover:bg-white focus:outline-none focus:shadow-outline"
+          data-primary="purple-600"
+          data-rounded="rounded-md"
+          onclick="Calendly.initPopupWidget({url: 'https://calendly.com/fabrikapp/free-30-min-mvp-consultation?month=2024-01'});return false;"
+          >{t("cta.button")}</a
         >
-        </div>
-        <div class="relative p-6 rounded-lg md:p-0">
-          <h2
-            class="text-3xl font-extrabold leading-9 tracking-tight text-white sm:text-4xl sm:leading-10"
-          >
-            🚀 {t("cta.tagline")}
-          </h2>
-          <p class="text-white ml-3 mt-3">
-            {t("cta.title")}
-          </p>
-        </div>
-        <div
-          class="relative flex flex-col items-center w-full px-6 space-y-5 md:space-x-5 md:space-y-0 md:flex-row md:w-auto lg:flex-shrink-0 md:px-0"
-        >
-          <a
-            href="#_"
-            class="block w-full px-8 py-5 text-xl font-medium leading-6 text-center text-purple-600 transition duration-150 ease-in-out bg-purple-100 rounded-md md:inline-flex md:shadow md:w-auto hover:bg-white focus:outline-none focus:shadow-outline"
-            data-primary="purple-600"
-            data-rounded="rounded-md">{t("cta.button")}</a
-          >
-        </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>

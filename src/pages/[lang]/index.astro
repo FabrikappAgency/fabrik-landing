@@ -4,7 +4,6 @@ import { changeLanguage } from "i18next";
 import Advantages from "@/components/sections/Advantages.astro";
 import CTA from "@/components/sections/CTA.astro";
 import FAQSection from "@/components/sections/FAQ.astro";
-import Hero from "@/components/sections/Hero.astro";
 import KeyFeatures from "@/components/sections/KeyFeatures.astro";
 import HowDoesItWork from "@/components/sections/HowDoesItWork.astro";
 import MeetCTO from "@/components/sections/MeetCTO.astro";
@@ -13,7 +12,10 @@ import Testimonials from "@/components/sections/Testimonials.astro";
 import Layout from "@components/layouts/PageLayout.astro";
 import { getLangFromUrl } from "@/i18n/utils";
 import Brevo from "@/components/sections/Brevo";
-import Calendly from "@/components/sections/Calendly.astro";
+import Hero from "@/components/sections/Hero.astro";
+import WhyChooseUs from "@/components/sections/WhyChooseUs.astro";
+import BackToTopButton from "@/components/sections/BackToTopButton.astro";
+import HeroCopy from "@/components/sections/Hero-copy.astro";
 
 const lang = getLangFromUrl(Astro.url);
 export const getStaticPaths = (() => {
@@ -24,16 +26,16 @@ changeLanguage(lang);
 ---
 
 <Layout>
-  <Hero />
+  <HeroCopy />
   <OurSolution />
+  <WhyChooseUs />
+  <HowDoesItWork />
   <KeyFeatures />
   <Advantages />
-  <HowDoesItWork />
   <Testimonials />
   <FAQSection />
   <MeetCTO />
   <CTA />
-  <Calendly />
   <Brevo />
   <section class="relative bg-gray-900 overflow-hidden">
     <div
@@ -112,4 +114,5 @@ changeLanguage(lang);
       <div class="absolute top-0 right-0 h-full w-px bg-gray-700"></div>
     </div>
   </section>
+  <BackToTopButton />
 </Layout>
