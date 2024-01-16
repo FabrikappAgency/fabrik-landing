@@ -6,8 +6,8 @@ const challenges = t("hero.challenges", { returnObjects: true });
 ---
 
 <section class="relative pb-24 bg-gray-900 font-sans">
-  <div class="relative px-16 pt-20 pb-32 mx-auto max-w-7xl xl:px-16">
-    <div class="max-w-5xl pt-24 mx-auto mb-24 text-center">
+  <div class="relative px-16 mx-auto max-w-7xl xl:px-16">
+    <div class="max-w-5xl pt-24 mx-auto mb-36 text-center">
       <h1 class="text-6xl text-white mb-10 font-black">
         <Trans i18nKey="hero.title">
           The
@@ -23,11 +23,11 @@ const challenges = t("hero.challenges", { returnObjects: true });
         </Trans>
       </h1>
       <Trans i18nKey="hero.description">
-        <p class="text-xl font-light text-white max-w-3xl mx-auto mb-8">
+        <p class="text-gray-300 sm:text-xl md:mt-5 lg:text-2xl md:max-w-4xl font-normal max-w-3xl mx-auto mb-8">
           Launching an MVP (Minimum Viable Product) is a monumental task,
           especially for solopreneurs !
         </p>
-        <p class="text-xl font-light text-white max-w-3xl mx-auto mb-8">
+        <p class="text-gray-300 sm:text-xl md:mt-5 lg:text-2xl md:max-w-4xl font-normal max-w-3xl mx-auto mb-8">
           As such, you’re the visionary, the driving force behind your idea. You
           can - and you will - face these fraught :
         </p>
@@ -42,11 +42,11 @@ const challenges = t("hero.challenges", { returnObjects: true });
           const titleText = titleTextParts.join(' ');
           const icon = challenge.icon;
           return (
-          <div class="relative container">
+          <div class="relative container max-w-md mx-auto">
             <span class="text-[9rem] text-green-700 absolute left-0 -top-44 md:-left-4 md:-top-32 font-['Rubik_Doodle_Shadow']">
               {index + 1}
             </span>
-            <div class="z-10 relative rounded-md text-gray-200 p-4 max-w-md lg:max-w-lg h-full">
+            <div class="z-10 relative rounded-md text-gray-200 p-4 lg:max-w-lg h-full pb-20 xl:pb-0">
               <p class="text-center font-bold text-green-500 pb-4 text-2xl">
                 <span class="text-4xl">{titleMoji}</span> {titleText}
               </p>
@@ -56,7 +56,7 @@ const challenges = t("hero.challenges", { returnObjects: true });
         )})
       }
     </div>
-    <div
+    <!-- <div
       class="relative max-w-2xl lg:max-w-7xl mx-auto bg-dark-light px-8 sm:px-10 lg:ps-20 lg:pe-10 pt-28 mt-10 pb-10 rounded-lg overflow-hidden bg-green-800 z-10"
     >
       <div class="absolute top-0 start-0 w-full py-2 bg-green-900">
@@ -93,13 +93,13 @@ const challenges = t("hero.challenges", { returnObjects: true });
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
-  <div class="absolute bottom-0 start-0 w-full">
+  <!-- <div class="absolute bottom-0 start-0 w-full">
     <div
       class="bg-gray-900 py-96"
       style="clip-path: ellipse(80% 40% at 49% 100%);"
     >
     </div>
-  </div>
+  </div> -->
 </section>
